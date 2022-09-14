@@ -66,7 +66,7 @@ expiratory phase).
 - **referenceValuesMiceOld.in**: Input file describing the baseline circuit 
 parameters and ventilator settings for mice when the Old ventilator 
 pressure waveform is used (exponential inspiratory and expiratory phases).
--** RHcircuitVarC.slx**: Simulink circuit modeling the respiratory system 
+- **RHcircuitVarC.slx**: Simulink circuit modeling the respiratory system 
 (where the circuit upper branch corresponds to healthy alveoli and the 
 bottom branch to recruitable alveoli) and a pressure-controlled ventilator.
 Capacitors were made pressure-dependent to model the lung stiffening with 

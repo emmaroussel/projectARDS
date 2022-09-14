@@ -6,7 +6,7 @@ pressure and flow ventilator recordings of control and ARDS mice.
 A Simulink circuit modeling healthy (H) and recruitable (R) alveoli is 
 herein coded. Alveolar proportions proportionally change circuit 
 parameters. Alveoli capacitors are variable to model lung stiffening with
-pressures. The main script is findProportionsMice were alveolar proportions
+pressures. The main script is findProportionsMice where alveolar proportions
 for a group of mice are estimated.
 
 ## Details

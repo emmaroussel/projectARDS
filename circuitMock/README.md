@@ -9,7 +9,7 @@ parameters. Alveoli capacitors are here fixed. Main scripts are:
 (i) runSimulinkMockSubject and runSimulinkAllMockSubjects where proportions 
 are prescribed for one or several patients and the Simulink circuit is run 
 with given pressures, resulting in flow outputs;
-(ii) findProportionsMockSubject were alveolar proportions for a mock 
+(ii) findProportionsMockSubject where alveolar proportions for a mock 
 subject (i.e., a subject whose pressure and flow are synthetic by running 
 the Simulink circuit) are estimated.
 

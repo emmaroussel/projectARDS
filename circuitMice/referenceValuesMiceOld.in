@@ -1,0 +1,25 @@
+% Reference values for circuit variables
+Healthy resistance  Rh  cmH2O/mL/s
+2
+Recruitable resistance  Rr  cmH2O/mL/s
+2
+Healthy compliance  Ch  mL/cmH2O
+0.036
+Recruitable compliance  Cr   mL/cmH2O
+0.012
+Threshold opening pressure  TOP cmH2O
+10
+
+% Reference values for ventilator settings 
+Respiratory rate    RR  breaths/min
+250
+Inspiratory to expiratory ratio IE  -
+0.333
+Minimum ventilator pressure pmin    cmH2O
+0
+Maximum ventilator pressure pmax    cmH2O
+6
+Expiratory exponential constant    tauExp    1/s
+40
+Inspiratory exponential constant    tauInsp    1/s
+100
